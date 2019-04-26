@@ -22,10 +22,10 @@ Permissions notice:
 • Push notifications: needed to inform you of recording status when backgrounding the app.
 
 # Screenshot
-![image](https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image1.png)
-![image](https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image2.png)
-![image](https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image3.png)
-![image](https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image4.png)
+![image](https://github.com/ttvkenvin/Science-Journal/blob/master/image1.png)
+![image](https://github.com/ttvkenvin/Science-Journal/blob/master/image2.png)
+![image](https://github.com/ttvkenvin/Science-Journal/blob/master/image3.png)
+![image](https://github.com/ttvkenvin/Science-Journal/blob/master/image4.png)
 
 
 

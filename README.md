@@ -22,7 +22,12 @@ Permissions notice:
 • Push notifications: needed to inform you of recording status when backgrounding the app.
 
 # Screenshot
-<img src="GitHubAssets/image1.png?raw=true" alt="iOS screenshot showing experiments list." width="175"><img src="GitHubAssets/image2.png?raw=true" alt="iOS screenshot showing `Iodine Clock` experiment." width="175"><img src="GitHubAssets/image3.png?raw=true" alt="iOS screenshot showing `Iodine Clock` recording showing brightness sensor with various values." width="175"><img src="GitHubAssets/image4.png?raw=true" alt="iOS screenshot showing `Iodine Clock` recording with notes alongside brightness sensor with various values." width="175">
+![image](https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image1.png)
+![image](https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image2.png)
+![image](https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image3.png)
+![image](https://raw.githubusercontent.com/google/science-journal-ios/master/GitHubAssets/image4.png)
+
+
 
 ## Features
 
